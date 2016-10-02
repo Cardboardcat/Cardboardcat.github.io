@@ -471,3 +471,85 @@
 #msg-box4-1 H3 {
   color: #ffffff;
 }
+
+
+#Mercury-msg-box5-0 P {
+  text-align: right;
+}
+#page6-ext_menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page6-ext_menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page6-ext_menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#page6-ext_menu-0 .close-icon::before,
+#page6-ext_menu-0 .close-icon::after {
+  background-color: #ffffff;
+}
+#page6-ext_menu-0 .link,
+#page6-ext_menu-0 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#page6-ext_menu-0 .link {
+  font-size: 1.15rem;
+}
+#page6-ext_menu-0 .dropdown-item,
+#page6-ext_menu-0 .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#page6-ext_menu-0 .link:hover,
+#page6-ext_menu-0 .dropdown-item:hover,
+#page6-ext_menu-0 .link:focus,
+#page6-ext_menu-0 .dropdown-item:focus {
+  color: #c0a375;
+}
+#page6-ext_menu-0 .link[aria-expanded="true"],
+#page6-ext_menu-0 .dropdown-menu {
+  background: #33834a;
+}
+#page6-ext_menu-0 .nav-dropdown-sm .link:focus,
+#page6-ext_menu-0 .nav-dropdown-sm .link:hover,
+#page6-ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page6-ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #3d9d59!important;
+}
+#page6-ext_menu-0 .navbar,
+#page6-ext_menu-0 .nav-dropdown-sm,
+#page6-ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page6-ext_menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #41a85f;
+}
+#page6-ext_menu-0 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#page6-ext_menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page6-ext_menu-0 .bg-color.transparent.opened .link:hover,
+#page6-ext_menu-0 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#page6-ext_menu-0 .link[aria-expanded="true"],
+#page6-ext_menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#Mercury-msg-box3-0 .mbr-section-title,
+#Mercury-msg-box3-0 p {
+  color: #000;
+}
+#Mercury-msg-box3-0 .lead UL {
+  font-size: 18px;
+}
+#Mercury-msg-box3-0 .lead P {
+  font-size: 18px;
+}
+#Mercury-features3-0 H5 {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
+}
