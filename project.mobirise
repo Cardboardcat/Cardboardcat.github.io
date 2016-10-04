@@ -1341,7 +1341,7 @@
           },
           "title": "The Mercury Gaming PC",
           "text": "A great first PC for only £380&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Buy</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Mercury.html\" data-toolbar=\"-mbrBtnMove\">Buy</a>"
         },
         {
           "_inherit": "menu",
