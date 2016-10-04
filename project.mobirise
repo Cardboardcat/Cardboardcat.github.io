@@ -593,6 +593,17 @@
         },
         {
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#4b4b4b"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "Contact-contacts1-0",
           "_params": {
             "paddingTop": 3,
@@ -624,18 +635,7 @@
           },
           "text1": "<strong>Address</strong><br><b>\n7 Shady Grove<br>\nAlsager, ST72NQ</b>",
           "text2": "<p><strong>Contacts</strong><br><b>\nEmail:</b> <b>finntech.co@gmail.com</b>&nbsp;&nbsp;<br></p>",
-          "text3": "",
-          "_styles": {
-            "P": {
-              "color": "#4b4b4b"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": ""
         }
       ]
     },
@@ -1315,7 +1315,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1340,8 +1340,8 @@
             }
           },
           "title": "The Mercury Gaming PC",
-          "text": "A great first PC&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "A great first PC for only £380&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Buy</a>"
         },
         {
           "_inherit": "menu",
