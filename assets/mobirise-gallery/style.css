@@ -30,9 +30,10 @@
   position: absolute;
   top: calc(50% - 24px);
   left: calc(50% - 32px);
-  font-size: 3rem;
+  font-size: 3rem !important;
   transition: .2s opacity ease-in-out;
   z-index: 5;
+  font-family: 'et-line' !important;
 }
 
 .mbr-gallery .icon-focus::before {
