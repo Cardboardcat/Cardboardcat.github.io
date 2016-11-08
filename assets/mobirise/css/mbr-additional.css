@@ -89,7 +89,7 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #f3c649 !important;
+  background-color: #2c2c2c !important;
 }
 .bg-danger {
   background-color: #f28281 !important;
@@ -175,8 +175,8 @@ h6,
   border-color: #6a8153 !important;
 }
 .btn-warning {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #2c2c2c;
+  border-color: #2c2c2c;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -185,14 +185,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #060606;
+  border-color: #060606;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #060606 !important;
+  border-color: #060606 !important;
 }
 .btn-danger {
   background-color: #f28281;
@@ -296,8 +296,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -305,14 +305,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #2c2c2c;
+  border-color: #2c2c2c;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #2c2c2c !important;
+  border-color: #2c2c2c !important;
 }
 .btn-danger-outline {
   background: none;
@@ -344,7 +344,7 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #f3c649 !important;
+  color: #2c2c2c !important;
 }
 .text-danger {
   color: #f28281 !important;
@@ -356,7 +356,7 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #f3c649;
+  background-color: #2c2c2c;
 }
 .alert-danger {
   background-color: #f28281;
@@ -403,7 +403,7 @@ h6,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #dfdfdf;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -1030,10 +1030,10 @@ h6,
   color: #000000;
 }
 #Mercury-features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #41a85f;
+  background-color: #2c2c2c;
 }
 #Mercury-features1-0 .mbr-cards-col:nth-child(odd) .card-text {
-  color: #000000;
+  color: #ffffff;
 }
 #Contact-contacts1-0 P {
   color: #4b4b4b;
