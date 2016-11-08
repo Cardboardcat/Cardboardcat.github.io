@@ -878,7 +878,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Mercury.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media2": {
             "image": {
-              "src": "assets/images/knapp-computers-600x112-66.png",
+              "src": "assets/images/finntech-logo-600x287-34.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -894,7 +894,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Gaming.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "assets/images/knapp-computers-600x112-56.png",
+              "src": "assets/images/finntech-logo-600x287-5.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -910,7 +910,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"Gaming.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "assets/images/knapp-computers-600x112-96.png",
+              "src": "assets/images/finntech-logo-600x287-80.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
