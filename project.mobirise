@@ -9,7 +9,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -25,10 +25,12 @@
     },
     "publishType": "local",
     "publishPath": "file:///C:/Users/Finnley/Desktop/Shop/WEB/Web%20folder/Cardboardcat.github.io",
-    "favicon": "assets/images/logo-128x96-28.png",
+    "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
