@@ -1932,7 +1932,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -1967,9 +1967,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Gigabyte Motherboard",
+          "title2": "Western Digital Caviar Blue 1TB HDD",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "A great motherboard that has onboard USB 3.0 headers and built in WIFI.",
+          "caption2": "We have picked the Western Digital Caviar Blue Hard drive as it is reliable and quick. It comes with 1TB (1000gb) storage, so you will have plenty of room for games, music and pictures.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
