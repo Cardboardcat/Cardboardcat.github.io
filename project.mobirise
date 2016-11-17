@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Mercury.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 1,
-    "versionPublish": "3.8.7",
+    "versionPublish": "3.9.0",
     "name": "Knapp PC's",
     "theme": {
       "name": "mobirise3",
@@ -357,7 +357,7 @@
           "subtitle1": "Clean out the fans from dust.",
           "currency1": "£",
           "price1": "5",
-          "period1": "For clean",
+          "period1": "",
           "description1": "£5 for a general fan and tower clean.",
           "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">CPU, Case and GPU Fan cleaning</span><br><li class=\"list-group-item\">All for £5</li><li class=\"list-group-item\">Keyboard included!</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
@@ -366,7 +366,7 @@
           "subtitle2": "Is your Computer or laptop running slow?",
           "currency2": "£",
           "price2": "10",
-          "period2": "Reset.",
+          "period2": "",
           "description2": "This will completly reset your pc back to default settings. <b>KEEPING THE OS!</b>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Set PC back to how you got it!</li><li class=\"list-group-item\">Keep the Operating system!</li><li class=\"list-group-item\">Keep the files you want!</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
@@ -375,9 +375,9 @@
           "subtitle3": "Is your pc infected with viruses?",
           "currency3": "£",
           "price3": "10",
-          "period3": "Virus Removal.",
+          "period3": "",
           "description3": "We will remove Malware, Addware, Spyware and Viruses!",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">No more Viruses!</li><li class=\"list-group-item\">No More Addware!</li><li class=\"list-group-item\">No More Spyware!</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">No More Viruses!</li><li class=\"list-group-item\">No More Addware!</li><li class=\"list-group-item\">No More Spyware!</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "HOT!",
           "title4": "Part installation!",
@@ -441,7 +441,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -595,7 +595,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -662,9 +662,9 @@
           "title": "CONTACT FORM",
           "subtitle": "Hi! Leave a comment here if you want to have a custom repair, build or anything else :)",
           "form": {
-            "action": "Finntech.co@gmail.com",
+            "action": "finntech.co@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form! We will respond ASAP!"
+              "success": "Thanks! We will respond ASAP!"
             },
             "fields": {
               "name": {
@@ -796,7 +796,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -875,7 +875,7 @@
             }
           },
           "title1": "£380",
-          "subtitle1": "Gaming PC called Mercury!",
+          "subtitle1": "Gaming PC called Mercury!<br>(Click to see more colors)",
           "caption1": "Windwos 10<br>AMD A10 APU<br>8gb RAM<br>1TB Storage",
           "button1": "<a data-app-btn=\"true\" href=\"Mercury.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media2": {
@@ -1570,7 +1570,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
