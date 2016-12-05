@@ -510,107 +510,6 @@ h6,
 }
 
 
-#header5-0 .mbr-section-title {
-  color: #000;
-}
-#header5-0 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#pricing-table2-0 .mbr-plan-header,
-#pricing-table2-0 .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-0 ul,
-#pricing-table2-0 .mbr-plan-title,
-#pricing-table2-0 .mbr-price-value,
-#pricing-table2-0 .mbr-price-figure,
-#pricing-table2-0 .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-0 .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-0 .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-0 .mbr-price-term {
-  text-align: center;
-}
-#ext_menu-0 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-0 .navbar-caption {
-  color: #ffffff;
-  font-size: 18px;
-  font-family: 'Montserrat', sans-serif;
-}
-#ext_menu-0 .navbar-toggler {
-  color: #3d8eb9;
-}
-#ext_menu-0 .close-icon::before,
-#ext_menu-0 .close-icon::after {
-  background-color: #3d8eb9;
-}
-#ext_menu-0 .link,
-#ext_menu-0 .dropdown-item {
-  color: #3d8eb9;
-  font-family: 'Roboto Condensed', sans-serif;
-}
-#ext_menu-0 .link {
-  font-size: 1.15rem;
-}
-#ext_menu-0 .dropdown-item,
-#ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
-}
-#ext_menu-0 .link:hover,
-#ext_menu-0 .dropdown-item:hover,
-#ext_menu-0 .link:focus,
-#ext_menu-0 .dropdown-item:focus {
-  color: #ffffff;
-}
-#ext_menu-0 .link[aria-expanded="true"],
-#ext_menu-0 .dropdown-menu {
-  background: #121212;
-}
-#ext_menu-0 .nav-dropdown-sm .link:focus,
-#ext_menu-0 .nav-dropdown-sm .link:hover,
-#ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #242424!important;
-}
-#ext_menu-0 .navbar,
-#ext_menu-0 .nav-dropdown-sm,
-#ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #2c2c2c;
-}
-#ext_menu-0 .bg-color.transparent .link {
-  color: #3d8eb9;
-  transition: none;
-}
-#ext_menu-0 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-0 .bg-color.transparent.opened .link:hover,
-#ext_menu-0 .bg-color.transparent.opened .link:focus {
-  color: #ffffff;
-}
-#ext_menu-0 .link[aria-expanded="true"],
-#ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
-}
-#Contact-contacts1-0 P {
-  color: #4b4b4b;
-}
-#Contact-contacts1-0 STRONG {
-  color: #ffffff;
-}
-#Contact-contacts1-0 B {
-  color: #ffffff;
-}
-
-
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -752,6 +651,9 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#Gaming-features3-0 P {
+  text-align: center;
 }
 #Contact-contacts1-0 P {
   color: #4b4b4b;
