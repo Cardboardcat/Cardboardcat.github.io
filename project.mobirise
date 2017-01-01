@@ -1,10 +1,10 @@
 {
   "settings": {
-    "currentPage": "Mercury.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 15,
     "versionPublish": "3.10.4",
-    "name": "Knapp PC's",
+    "name": "Finntech",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -35,7 +35,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "FinnTech is a company that specialises in building quality computers in the UK!",
+        "meta_descr": "FinnTech is a company that specialises in building quality computers in the UK!\n\nCurrently only selling PC's in the UK.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
