@@ -428,6 +428,13 @@ h6,
 #header1-0 .mbr-section-lead B {
   color: #c1c1c1;
 }
+#msg-box3-0 .mbr-section-title,
+#msg-box3-0 p {
+  color: #000;
+}
+#msg-box3-0 .lead P {
+  font-size: 17px;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -491,13 +498,6 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
-}
-#msg-box3-0 .mbr-section-title,
-#msg-box3-0 p {
-  color: #000;
-}
-#msg-box3-0 .lead P {
-  font-size: 17px;
 }
 #Contact-contacts1-0 P {
   color: #4b4b4b;

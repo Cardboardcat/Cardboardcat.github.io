@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Mercury.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 1,
-    "versionPublish": "3.9.0",
+    "uniqCompNum": 15,
+    "versionPublish": "3.10.4",
     "name": "Knapp PC's",
     "theme": {
       "name": "mobirise3",
@@ -23,8 +23,6 @@
         "isScrollToTopButton": false
       }
     },
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Finnley/Desktop/Shop/WEB/Web%20folder/Cardboardcat.github.io",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -37,7 +35,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Cheap and reliable computer repairs located in Alsager!",
+        "meta_descr": "FinnTech is a company that specialises in building quality computers in the UK!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -85,6 +83,41 @@
           "title": "FinnTech PC's",
           "text": "<b>Reliable PC's and cheap repairs.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">New PC</a>   <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"PC repairs.html\" data-toolbar=\"-mbrBtnMove\">Repairs</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "What We Do!",
+          "text": "<p>We create PC's for the people of the UK</p><p>We create computers that range from office to gaming computers!</p><h6>( Not to be confused with finntechnologies)</h6>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "menu",
@@ -178,41 +211,6 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FinnTech</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Computers</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gaming.html\">Gaming<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Office.html\">Office<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Help!</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Help.html\">Tech Help</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead P": {
-              "font-size": "17px"
-            }
-          },
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-0",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "What We Do!",
-          "text": "<p>We create PC's for the people of the UK</p><p>We create computers that range from office to gaming computers!</p><h6>( Not to be confused with finntechnologies)</h6>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -567,6 +565,11 @@
         },
         {
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "Gaming-features3-0",
           "_params": {
             "paddingTop": "4",
@@ -677,12 +680,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1128,6 +1126,7 @@
           },
           "_anchor": "msg-box4-0",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -1179,6 +1178,7 @@
           },
           "_anchor": "msg-box4-1",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -1286,6 +1286,7 @@
           },
           "_anchor": "Mercury-msg-box5-0",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
@@ -1700,9 +1701,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Western Digital Caviar Blue 1TB HDD",
+          "title2": "Gigabyte GA-F2A78M-HD2 Motherboard",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We have picked the Western Digital Caviar Blue Hard drive as it is reliable and quick. It comes with 1TB (1000gb) storage, so you will have plenty of room for games, music and pictures.",
+          "caption2": "The&nbsp;Gigabyte GA-F2A78M-HD2 Motherboard that includes loads of features such as....<br>HDMI<br>USB 3.0<br>USB 2.0<br>Dual Bios<br>Ethernet Port",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
